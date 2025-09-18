@@ -1,0 +1,5 @@
+Tecnologia,Lectura_MB_s,Escritura_MB_s,Capacidad_TB,Costo_USD_GB,MTBF_horas,Consumo_W,Seguridad_1_5,Escalabilidad_1_5,Notas
+HDD,150,130,24,0.025,1200000,7,3,3,"[Unverified] Valores de referencia didácticos"
+SSD,1500,1200,8,0.10,2000000,3,4,3,"[Unverified] Valores de referencia didácticos"
+Cinta,300,250,18,0.008,2500000,6,3,2,"[Unverified] Valores de referencia didácticos"
+Nube,300,250,1000,0.03,0,0,5,5,"[Unverified] Depende de proveedor/red; coste excluye transferencias y requests"
